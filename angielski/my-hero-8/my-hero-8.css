@@ -5,10 +5,15 @@ body
 
 h1
 {
-	font-size: 56px;
+	font-size: 49px;
 }
 
 h3
 {
-	font-size: 31px;
+	font-size: 26px;
+}
+
+h2
+{
+	font-size: 34px;
 }
